@@ -8,7 +8,7 @@ Each dish contains its average rating.
 
 ## Variáveis de Ambiente
 
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
+To run the project, you will need to add the following enviroment variables to a .env file.
 
 `SECRET_KEY='django-insecure-%^xzd&me8!b8)@!0#l+@xu$1k8+_6j+7w8kzjndnsf9*#e)ado'`
 
